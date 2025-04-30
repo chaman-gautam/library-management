@@ -52,9 +52,6 @@ This is a web-based Library Management System designed to manage books, users, a
 - Register as a new user or log in with existing credentials.
 - Navigate through the dashboard based on your user role to manage books and users.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 
